@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>background.png</file>
+        <file>Bricks.png</file>
+        <file>Clyde.jpg</file>
+        <file>INKY.jpg</file>
+        <file>invincible.png</file>
+        <file>notinvincible.png</file>
+        <file>pacman_beginning.wav</file>
+        <file>Pacmandown.png</file>
+        <file>Pacmani.png</file>
+        <file>Pacmanleft.png</file>
+        <file>Pacmanup.png</file>
+        <file>pellet.png</file>
+        <file>PINKY.jpg</file>
+        <file>read.txt</file>
+        <file>white.png</file>
+        <file>fruit.png</file>
+    </qresource>
+    <qresource prefix="/Sound">
+        <file>pacman_beginning.wav</file>
+    </qresource>
+</RCC>
